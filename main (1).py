@@ -97,3 +97,6 @@ def menu():
 
 
 menu()
+print('Arreglo Agregado')
+
+      
